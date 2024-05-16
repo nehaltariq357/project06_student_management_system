@@ -1,5 +1,5 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
-
 class Student {
   static counter: number = 0;
   id: string;
